@@ -1,0 +1,18 @@
+{
+  "name": "16-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "comentaris.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.62.0"
+  }
+}
